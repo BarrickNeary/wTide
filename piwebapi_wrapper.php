@@ -12,7 +12,7 @@ $my_data_server = "roasterpi";
 $my_asset_server ="USAGSTPIAF";
 $my_asset_database = "PIWebAPI";
 $my_asset_database_WebId = "F1RDFa_bAB7LwUSn0blPHPLcyQiMEG8BKdZEO1zROxkYUGPwVVNBR1NUUElBRlxQSVdFQkFQSQ";
-$my_authorization_string = "cGlfZ2xvYmFsOkcxb2JhTFAh";
+$my_authorization_string = "Colton_Is_Great";
 
 ini_set('max_execution_time', 30);
 
